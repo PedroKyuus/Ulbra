@@ -1,0 +1,48 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-color: aliceblue;
+}
+.divTudo{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.divLinha{
+    clear: both;
+}
+#divCabecalho{
+    background-color: rgb(5, 57, 102);
+    min-height: 100px;
+    padding: 20px 50px 20px 50px;
+}
+#h1TituloCabecalho{
+    color: rgb(245, 247, 248);
+    font-size: 16px;
+    float: left;
+    min-width: 50%;
+    text-align: left;
+}
+#h2TituloSessao{
+    font-size: 20px;
+}
+#divClassificacao{
+    width: 50%;
+}
+#tableClassificacao{
+    width: 100%;
+    background-color: aliceblue;
+}
+#h3TituloGrupo{
+    font-size: 14px;
+}
+#divGoleadores{
+    width: 50%;
+}
+#tableGoleadores{
+    width: 100%;
+    background-color: aliceblue;
+}
+td, th{
+    border: solid 1px;
+}
